@@ -3,3 +3,5 @@ birnen
 bier
 kaffee
 eier
+chips
+pommes
