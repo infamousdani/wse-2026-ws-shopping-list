@@ -5,3 +5,5 @@ kaffee
 eier
 chips
 pommes
+kartoffel
+salat
