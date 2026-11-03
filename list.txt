@@ -2,6 +2,7 @@ aepfel
 birnen
 bier
 kaffee
+tomaten
 eier
 chips
 pommes
