@@ -3,6 +3,7 @@ birnen
 bananen
 bier
 kaffee
+kekse
 tomaten
 eier
 chips
