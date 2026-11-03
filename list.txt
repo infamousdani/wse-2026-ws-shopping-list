@@ -12,3 +12,5 @@ kaese
 gurkerl
 paprika
 salat
+wurst
+
