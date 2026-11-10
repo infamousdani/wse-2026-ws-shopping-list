@@ -20,4 +20,5 @@ wurst
 brot
 cola
 sprite
+fanta
 
